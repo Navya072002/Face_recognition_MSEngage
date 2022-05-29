@@ -4,10 +4,10 @@ Requirements:
 2. cmake  
 3. opencv  
 4. dlib  
-5. face_recognition  
+5. face-recognition  
 6. cs50  
 7. flask  
-8. flask_session
+8. flask-session
 9. werkzeug
 
 Running the Browser-based app:
